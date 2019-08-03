@@ -1,4 +1,4 @@
-﻿jsdjfljsdlkIf you’ve never used git or github before, there are a bunch of things that you need to do. It’s very well explained on github, but repeated here for completeness.
+﻿done changes you’ve never used git or github before, there are a bunch of things that you need to do. It’s very well explained on github, but repeated here for completeness.
 
 Get a github account.
 Download and install git.
