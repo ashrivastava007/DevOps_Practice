@@ -1,4 +1,18 @@
-﻿Open a terminal/shell and type:
+﻿sample projects
+sample projects
+sample projects
+sample projects
+sample projects
+sample projects
+sample projects
+sample projectssample projects
+sample projects
+sample projectssample projects
+sample projectssample projects
+sample projects
+sample projects
+sample projects
+Open a terminal/shell and type:
 
 $ git config --global user.name Your name here
 $ git config --global user.email your_email@example.com
