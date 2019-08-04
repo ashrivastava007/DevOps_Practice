@@ -1,4 +1,6 @@
-﻿
+﻿Received offer letter today
+
+From TCS INDORE
 
 $ git config --global user.name Your name here
 $ git config --global user.email your_email@example.com
