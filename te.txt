@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+﻿
+stash
 ﻿Done done Done
 =======
 ﻿Today is the day always
