@@ -1,4 +1,4 @@
-GIT REBASE IN MASTER
+GIT FOR STASH
 
 This is awesome day today
 
