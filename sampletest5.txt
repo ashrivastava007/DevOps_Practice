@@ -1,3 +1,5 @@
+GIT REBASE IN MASTER
+
 This is awesome day today
 
 This is amazing
