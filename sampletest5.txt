@@ -1,5 +1,9 @@
+<<<<<<< Updated upstream
 nothing chnaged yet
 GIT FOR STASH
+=======
+GIT FOR STASH updated
+>>>>>>> Stashed changes
 
 This is awesome day today
 
